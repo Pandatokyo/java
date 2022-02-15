@@ -1,1 +1,1 @@
-# java
+# Курс Geekbrains "Программист Java"
